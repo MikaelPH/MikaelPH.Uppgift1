@@ -1,0 +1,65 @@
+html{
+	font-family: 'Roboto', sans-serif;
+}
+
+body{
+	background-color: #2F2F2F;
+	margin: 0px;
+}
+
+.mainbutton{
+	width: 361px;
+	height: 204px;
+}
+
+#profilebutton{
+	position: absolute;
+	left: 392px;
+	top: 437px;
+	font-weight: 200;
+	font-size: 96px;
+	line-height: 112px;
+}
+
+#portfolio{
+	position: absolute;
+	left: 1059px;
+	top: 139px;
+	font-weight: 200;
+	font-size: 96px;
+	line-height: 112px;
+}
+
+#contact{
+	position: absolute;
+	left: 969px;
+	top: 952px;
+	font-weight: 200;
+	font-size: 96px;
+	line-height: 112px;
+}
+
+.reflection{
+	font-weight: 200;
+	font-size: 96px;
+	line-height: 112px;
+	color: #424242;
+	transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+#reflectionportfolio{
+	margin: auto;
+}
+
+#reflectionprofile{
+	margin: auto;
+}
+
+#reflectioncontact{
+	margin: auto;
+}
+
+.buttontext{
+	margin: auto;
+	color: #E3E3E3;
+}
