@@ -1,6 +1,23 @@
 html{
 	font-family: 'Roboto', sans-serif;
 }
+a:link {
+	color: #E3E3E3;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #E3E3E3;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: gray;
+	background-color: transparent;
+	text-decoration: none;
+}
 
 body{
 	background-color: #2F2F2F;
@@ -61,5 +78,19 @@ body{
 
 .buttontext{
 	margin: auto;
-	color: #E3E3E3;
+}
+
+/*profilepage*/
+
+#profile{
+	background-color: green;
+}
+
+#profilediv{
+	
+}
+
+#profilepic{
+	height:100px;
+	width:100px;
 }
